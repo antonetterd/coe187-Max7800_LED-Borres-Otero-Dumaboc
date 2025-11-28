@@ -210,5 +210,4 @@ int main(void)
 }
 
 
-//https://chatgpt.com/s/t_6920157d6f1c8191a2f3c883f976ca47
 
